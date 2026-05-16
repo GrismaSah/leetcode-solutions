@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/GrismaSah/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GrismaSah/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/GrismaSah/leetcode-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/GrismaSah/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/GrismaSah/leetcode-solutions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GrismaSah/leetcode-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/GrismaSah/leetcode-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/GrismaSah/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/GrismaSah/leetcode-solutions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/GrismaSah/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/GrismaSah/leetcode-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/GrismaSah/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/GrismaSah/leetcode-solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
