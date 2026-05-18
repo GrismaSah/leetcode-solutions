@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/GrismaSah/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/GrismaSah/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/GrismaSah/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1672-richest-customer-wealth](https://github.com/GrismaSah/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/GrismaSah/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/GrismaSah/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/GrismaSah/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
