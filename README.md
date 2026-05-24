@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/GrismaSah/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/GrismaSah/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/GrismaSah/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0605-can-place-flowers](https://github.com/GrismaSah/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/GrismaSah/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/GrismaSah/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/GrismaSah/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/GrismaSah/leetcode-solutions/tree/master/1051-height-checker) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/GrismaSah/leetcode-solutions/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
