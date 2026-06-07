@@ -16,6 +16,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/GrismaSah/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/GrismaSah/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/GrismaSah/leetcode-solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/GrismaSah/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/GrismaSah/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/GrismaSah/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/GrismaSah/leetcode-solutions/tree/master/0228-summary-ranges) |
@@ -57,6 +58,7 @@
 | [0027-remove-element](https://github.com/GrismaSah/leetcode-solutions/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/GrismaSah/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/GrismaSah/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/GrismaSah/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/GrismaSah/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/GrismaSah/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/GrismaSah/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -81,6 +83,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/GrismaSah/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/GrismaSah/leetcode-solutions/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/GrismaSah/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/GrismaSah/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
