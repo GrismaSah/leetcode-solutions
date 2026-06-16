@@ -39,6 +39,7 @@
 | [1672-richest-customer-wealth](https://github.com/GrismaSah/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/GrismaSah/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/GrismaSah/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/GrismaSah/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/GrismaSah/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Hash Table
 |  |
@@ -65,6 +66,7 @@
 | [0283-move-zeroes](https://github.com/GrismaSah/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/GrismaSah/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/GrismaSah/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/GrismaSah/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -141,4 +143,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/GrismaSah/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/GrismaSah/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
