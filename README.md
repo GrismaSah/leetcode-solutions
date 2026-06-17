@@ -94,6 +94,7 @@
 | [0268-missing-number](https://github.com/GrismaSah/leetcode-solutions/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/GrismaSah/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/GrismaSah/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2119-a-number-after-a-double-reversal](https://github.com/GrismaSah/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
 ## Binary Search
 |  |
 | ------- |
