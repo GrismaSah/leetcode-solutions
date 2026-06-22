@@ -169,4 +169,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/GrismaSah/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/GrismaSah/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/GrismaSah/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
