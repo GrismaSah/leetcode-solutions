@@ -3,31 +3,31 @@ class Solution {
         if(s.length() != t.length()){
             return false;
         }
-        HashMap<Character, Integer> map = new HashMap <>();
-        for(int i=0; i<s.length(); i++){
-            char word = s.charAt(i);
-            if(map.containsKey(word)){
-                map.put(word, map.get(word)+1);
-            }
-            else{
-                map.put(word, 1);
-            }
-        }
-        for(int i=0; i<t.length(); i++){
-            char letter = t.charAt(i);
-            if(map.containsKey(letter)){
-                map.put(letter, map.get(letter) - 1);       
-            }
-              else{
-                map.put(letter, 1);
-            }
-        }
-        for(Map.Entry<Character, Integer> e: map.entrySet()){
-            if(e.getValue() != 0){
-                return false;
-            }
-        }
-        return true;
+        // HashMap<Character, Integer> map = new HashMap <>();
+        // for(int i=0; i<s.length(); i++){
+        //     char word = s.charAt(i);
+        //     if(map.containsKey(word)){
+        //         map.put(word, map.get(word)+1);
+        //     }
+        //     else{
+        //         map.put(word, 1);
+        //     }
+        // }
+        // for(int i=0; i<t.length(); i++){
+        //     char letter = t.charAt(i);
+        //     if(map.containsKey(letter)){
+        //         map.put(letter, map.get(letter) - 1);       
+        //     }
+        //       else{
+        //         map.put(letter, 1);
+        //     }
+        // }
+        // for(Map.Entry<Character, Integer> e: map.entrySet()){
+        //     if(e.getValue() != 0){
+        //         return false;
+        //     }
+        // }
+        // return true;
 
         // another approach 
         // HashMap<Character, Integer> map1 = new HashMap <>();
@@ -57,5 +57,19 @@ class Solution {
         // else {
         //     return false;
         // }
+
+        // optimal approach
+        int[] freq = new int[26];
+        for(int i=0; i<s.length(); i++){
+            freq[s.charAt(i) - 'a']++;
+            freq[t.charAt(i) - 'a']--;
+
+        }
+        for(int count : freq){
+            if(count != 0){
+                return false;
+            }
+        }
+        return true;
     }
 }
