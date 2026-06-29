@@ -59,6 +59,7 @@
 | [0242-valid-anagram](https://github.com/GrismaSah/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GrismaSah/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/GrismaSah/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/GrismaSah/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GrismaSah/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/GrismaSah/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/GrismaSah/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/GrismaSah/leetcode-solutions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/GrismaSah/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -166,6 +168,7 @@
 | [0014-longest-common-prefix](https://github.com/GrismaSah/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/GrismaSah/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/GrismaSah/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/GrismaSah/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -201,4 +204,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/GrismaSah/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/GrismaSah/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
