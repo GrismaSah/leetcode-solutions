@@ -63,6 +63,7 @@
 | [0290-word-pattern](https://github.com/GrismaSah/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/GrismaSah/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/GrismaSah/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/GrismaSah/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GrismaSah/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/GrismaSah/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/GrismaSah/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -96,6 +97,7 @@
 | [0242-valid-anagram](https://github.com/GrismaSah/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GrismaSah/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/GrismaSah/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/GrismaSah/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GrismaSah/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/GrismaSah/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/GrismaSah/leetcode-solutions/tree/master/1051-height-checker) |
@@ -135,6 +137,7 @@
 | [0231-power-of-two](https://github.com/GrismaSah/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/GrismaSah/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/GrismaSah/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/GrismaSah/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -181,6 +184,7 @@
 | [0290-word-pattern](https://github.com/GrismaSah/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/GrismaSah/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/GrismaSah/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/GrismaSah/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/GrismaSah/leetcode-solutions/tree/master/0709-to-lower-case) |
 ## Trie
 |  |
