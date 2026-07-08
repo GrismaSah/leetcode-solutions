@@ -35,6 +35,7 @@
 | [0605-can-place-flowers](https://github.com/GrismaSah/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/GrismaSah/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0896-monotonic-array](https://github.com/GrismaSah/leetcode-solutions/tree/master/0896-monotonic-array) |
+| [0912-sort-an-array](https://github.com/GrismaSah/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/GrismaSah/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/GrismaSah/leetcode-solutions/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/GrismaSah/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -100,6 +101,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/GrismaSah/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/GrismaSah/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GrismaSah/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0912-sort-an-array](https://github.com/GrismaSah/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/GrismaSah/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/GrismaSah/leetcode-solutions/tree/master/1051-height-checker) |
 ## Divide and Conquer
@@ -107,6 +109,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/GrismaSah/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GrismaSah/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/GrismaSah/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -159,6 +162,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/GrismaSah/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/GrismaSah/leetcode-solutions/tree/master/1051-height-checker) |
 ## Greedy
 |  |
@@ -202,6 +206,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/GrismaSah/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/GrismaSah/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -235,4 +240,16 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GrismaSah/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/GrismaSah/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/GrismaSah/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/GrismaSah/leetcode-solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
