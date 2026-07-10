@@ -29,6 +29,7 @@
 | [0283-move-zeroes](https://github.com/GrismaSah/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/GrismaSah/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/GrismaSah/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/GrismaSah/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GrismaSah/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/GrismaSah/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/GrismaSah/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
@@ -102,6 +103,7 @@
 | [0268-missing-number](https://github.com/GrismaSah/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/GrismaSah/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/GrismaSah/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/GrismaSah/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/GrismaSah/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/GrismaSah/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/GrismaSah/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
