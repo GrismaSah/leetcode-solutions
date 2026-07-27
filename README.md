@@ -130,6 +130,7 @@
 | [0509-fibonacci-number](https://github.com/GrismaSah/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/GrismaSah/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/GrismaSah/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/GrismaSah/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2119-a-number-after-a-double-reversal](https://github.com/GrismaSah/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
 ## Binary Search
 |  |
