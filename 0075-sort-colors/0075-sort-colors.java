@@ -1,33 +1,68 @@
 class Solution {
-    public void sortColors(int[] nums) {
-       int count0 = 0;
-       int count1 = 0;
-       int count2 =0;
+    public int[] sortColors(int[] nums) {
+        // case:0 - swap with the element at start pointer, start++, middle++;
+        // case1: no swapping, middle++;
+        //case 2 - swap with the end pointer, end-- ;
 
-       for(int i=0; i<nums.length; i++){
-        if(nums[i] == 0){
-            count0++;
-        }
-        else if(nums[i] == 1){
-            count1++;
-        }
-        else{
-            count2++;
-        }
-       }
-       int k = 0;
+        // if else condition..
+        int n = nums.length;
+        int start = 0, middle = 0, end = n-1;
+        // while(middle <= end){
+        //     if(nums[middle] == 2){
+        //         int temp = nums[middle];
+        //         nums[middle] = nums[end];
+        //         nums[end] = temp;
 
-       while(count0-- >0){
-        nums[k] = 0;
-        k++;
-       }
-       while(count1-- >0){
-        nums[k] = 1;
-        k++;
-       }
-       while(count2-- >0){
-        nums[k] = 2;
-        k++;
-       }
+        //         end--;
+            
+        //     }
+        //     else if( nums[middle] == 1 ){
+        //         middle++;
+        //     }
+        //     else{
+        //         int temp = nums[middle];
+        //         nums[middle] = nums[start];
+        //         nums[start] = temp;
+
+        //         start++;
+        //         middle++;
+        //     }
+        // }
+        // return nums;
+
+        // swtich case..
+        while(middle <= end){
+            switch(nums[middle]){
+                 case 0:
+                    int temp0 = nums[middle];
+                    nums[middle] = nums[start];
+                    nums[start] = temp0;
+
+                    start++;
+                    middle++;
+                    break;
+
+                case 1:
+                    middle++;
+                    break;
+
+                case 2:
+                    int temp2 = nums[middle];
+                    nums[middle] = nums[end];
+                    nums[end] = temp2;
+
+                    end--;
+                    // Don't increment middle here
+                    break;
+            }
+
+        }
+        
+            return nums;
+        
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
