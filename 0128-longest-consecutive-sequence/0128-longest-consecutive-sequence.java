@@ -2,22 +2,22 @@ class Solution {
     public int longestConsecutive(int[] nums) {
          HashSet<Integer> set = new HashSet<>();
 
-        for(int num : nums){
+        for (int num : nums) {
             set.add(num);
         }
 
         int longest = 0;
 
-        for(int num : set){
+        for (int num : set) {
 
             // Start of a sequence
-            if(!set.contains(num - 1)){
+            if (!set.contains(num - 1)) {
 
-                int currentNum = num;
+                int current = num;
                 int count = 1;
 
-                while(set.contains(currentNum + 1)){
-                    currentNum++;
+                while (set.contains(current + 1)) {
+                    current++;
                     count++;
                 }
 
@@ -28,3 +28,7 @@ class Solution {
         return longest;
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
