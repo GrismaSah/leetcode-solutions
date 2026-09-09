@@ -5,11 +5,10 @@ class Solution {
         int max = nums[nums.length-1];
         
         for(int i=nums.length-2; i>=0; i--){
-            if(nums[i] >= max){
+            if(nums[i] >= max ){
                 list.add(nums[i]);
                 max = nums[i];
             }
-            
         }
         Collections.reverse(list);
         return list;
